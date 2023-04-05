@@ -45,7 +45,7 @@
 		}],
 		"socket": false,
 		"manifest": "https://raw.githubusercontent.com/TooSoonForThePelle/dfreds-pocket-change/main/module.json",
-		"download": "https://github.com/TooSoonForThePelle/dfreds-pocket-change/releases/latest/download/dfreds-pocket-change.zip",
+		"download": "https://github.com/TooSoonForThePelle/dfreds-pocket-change/archive/2.0.3.zip",
 		"protected": false,
 		"coreTranslation": false
 	}
